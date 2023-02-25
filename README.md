@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/79128256/204339562-481fabe0-2054-4668-
 - Login/Signup User Account
 - Update Profile/Password User Account
 - Reset Password through mobile otp
-- Cart Add/Remove Items | Update Quantities
+- Cart Add/Remove Items |Update Quantities
 - Save For Later Add/Remove Items
 - Wishlist Add/Remove Items
 - Product Search
